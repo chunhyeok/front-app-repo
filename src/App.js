@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-           Chunhyeok
+           Soldesk
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
